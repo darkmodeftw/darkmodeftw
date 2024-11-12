@@ -15,12 +15,10 @@
 
  **<h3 align="left">I'm a software engineer on a journey to blend innovation with code, currently graduating from Università degli Studi di Bari Aldo Moro. With a passion for the full stack, I thrive in both front-end finesse and back-end brilliance. 🚀</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">About Me</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+I’m not just about code! Alongside my love for technology, I’m a fan of cars, motorcycles, and everything with wheels and an engine. 🏎️🏍️ I also have a deep appreciation for architecture, which often inspires my approach to clean, structured code. When I'm not exploring the digital world, you’ll find me traveling to new places, exploring new cuisines, or trying my hand at cooking up something exciting in the kitchen.  
+
 
  **<h3 align="left">Skills</h3>**
 
