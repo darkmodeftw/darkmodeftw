@@ -39,7 +39,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [![SQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)](https://www.postgresql.org/)
 [![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](https://www.python.org/)
 [![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)](https://devdocs.io/javascript/)]
+[![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)](https://devdocs.io/javascript/)
 
 
 **Frameworks**
@@ -55,15 +55,15 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [![npm](https://img.icons8.com/?size=100&id=b6eVatKY9ihI&format=png&color=000000)](https://www.npmjs.com/)
 [<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-tag-color.png" width="150" height="90">](https://github.com/nvm-sh/nvm?tab=readme-ov-file)
 [![ChatGPT](https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000)](https://chatgpt.com/)
-[![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+[![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)](https://git-scm.com/)
 
 **IDEs**
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
-![DataGrip](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+[![VS Code](https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000)](https://code.visualstudio.com/)
+[![Eclipse](https://img.icons8.com/?size=100&id=pcHtLiSbkmzw&format=png&color=000000)](https://www.eclipse.org/downloads/)
+[![PyCharm](https://img.icons8.com/?size=100&id=117121&format=png&color=000000)](https://www.jetbrains.com/pycharm/?source=google&medium=cpc&campaign=EMEA_en_WEST_PyCharm_Branded&term=pycharm&content=698987581404&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvysNSCUuNlRkeejwFtUPdxyZfcV_IKg_fFb75Ykp9jgUf0ttMjYEg4BoCPnsQAvD_BwE)
+[<img src="https://icon.icepanel.io/Technology/svg/CLion.svg" width="100" height="100">](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=EMEA_en_WEST_Clion_Branded&term=clion&content=489240781091&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyuRGU3SAm1k9OVH3CZJg1q_huTlKQU1JPVtylqbN1as_fKOqBjpv4hoCyAQQAvD_BwE)
+[<img src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" width="100" height="100">](https://www.jetbrains.com/datagrip/?source=google&medium=cpc&campaign=EMEA_en_WEST_DataGrip_Branded&term=datagrip&content=555122603931&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyhKiZoUntH4YIHhhEcdK8cqx7-frdDdyaAaPJvnIhWTzbFETe-PjRxoCLAMQAvD_BwE)
 
 ---
 
