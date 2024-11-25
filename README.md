@@ -51,11 +51,11 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![nvm](https://img.shields.io/badge/nvm-3C873A?style=flat&logo=nodedotjs&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-34A853?style=flat&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Docker](https://img.icons8.com/?size=100&id=22813&format=png&color=000000)](https://www.docker.com/)
+[![npm](https://img.icons8.com/?size=100&id=b6eVatKY9ihI&format=png&color=000000)](https://www.npmjs.com/)
+[<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-tag-color.png" width="150" height="90">](https://github.com/nvm-sh/nvm?tab=readme-ov-file)
+[![ChatGPT](https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000)](https://chatgpt.com/)
+[![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 
 **IDEs**
 
