@@ -39,7 +39,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [![SQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)](https://www.postgresql.org/)
 [![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](https://www.python.org/)
 [![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)](https://devdocs.io/javascript/)
+[![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)](https://devdocs.io/javascript/)]
 
 
 **Frameworks**
