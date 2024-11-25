@@ -32,14 +32,14 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
  
 **Programming Languages**
 
-![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
-![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
-![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
-![Kotlin](https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000)
-![SQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+[![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)](https://devdocs.io/cpp/)
+[![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)](https://devdocs.io/c/)
+[![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)](https://docs.oracle.com/en/java/)
+[![Kotlin](https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000)](https://kotlinlang.org/)
+[![SQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)](https://www.postgresql.org/)
+[![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](https://www.python.org/)
+[![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)](https://devdocs.io/javascript/)
 
 
 **Frameworks**
