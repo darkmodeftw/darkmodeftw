@@ -32,13 +32,15 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
  
 **Programming Languages**
 
-![C++](https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000)
+![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
 ![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![Kotlin](https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000)
+![SQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+
 
 **Frameworks**
 
