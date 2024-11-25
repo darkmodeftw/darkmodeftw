@@ -32,7 +32,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
  
 **Programming Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
@@ -62,6 +62,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+![DataGrip](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 
 ---
 
