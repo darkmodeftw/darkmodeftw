@@ -33,7 +33,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 **Programming Languages**
 
 ![C++](https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
