@@ -54,6 +54,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [![Docker](https://img.icons8.com/?size=100&id=22813&format=png&color=000000)](https://www.docker.com/)
 [![npm](https://img.icons8.com/?size=100&id=b6eVatKY9ihI&format=png&color=000000)](https://www.npmjs.com/)
 [<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-tag-color.png" width="150" height="90">](https://github.com/nvm-sh/nvm?tab=readme-ov-file)
+[<img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" width="85" height="85">](https://docs.strapi.io/)
 [![ChatGPT](https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000)](https://chatgpt.com/)
 [![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)](https://git-scm.com/)
 
