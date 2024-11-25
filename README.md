@@ -44,11 +44,10 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 
 **Frameworks**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+[![Next.js](https://img.icons8.com/?size=100&id=66746&format=png&color=000000)](https://nextjs.org/docs/app/building-your-application/optimizing/images)
+[![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)](https://react.dev/)
+[![Tailwind CSS](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000)](https://tailwindcss.com/)
+[![Bootstrap](https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000)](https://icons.getbootstrap.com/)
 
 **Tools**
 
