@@ -64,7 +64,8 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [![Eclipse](https://img.icons8.com/?size=100&id=pcHtLiSbkmzw&format=png&color=000000)](https://www.eclipse.org/downloads/)
 [<img src="https://icon.icepanel.io/Technology/svg/CLion.svg" width="100" height="100">](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=EMEA_en_WEST_Clion_Branded&term=clion&content=489240781091&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyuRGU3SAm1k9OVH3CZJg1q_huTlKQU1JPVtylqbN1as_fKOqBjpv4hoCyAQQAvD_BwE)
 [<img src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" width="100" height="100">](https://www.jetbrains.com/datagrip/?source=google&medium=cpc&campaign=EMEA_en_WEST_DataGrip_Branded&term=datagrip&content=555122603931&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyhKiZoUntH4YIHhhEcdK8cqx7-frdDdyaAaPJvnIhWTzbFETe-PjRxoCLAMQAvD_BwE)
-[<img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="100" height="100">]([https://www.jetbrains.com/datagrip/?source=google&medium=cpc&campaign=EMEA_en_WEST_DataGrip_Branded&term=datagrip&content=555122603931&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyhKiZoUntH4YIHhhEcdK8cqx7-frdDdyaAaPJvnIhWTzbFETe-PjRxoCLAMQAvD_BwE](https://www.jetbrains.com/pycharm/))
+[<img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="100" height="100">](https://www.jetbrains.com/pycharm/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="100" height="100">](https://www.jetbrains.com/idea/)
 
 ---
 
