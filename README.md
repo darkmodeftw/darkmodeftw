@@ -36,11 +36,15 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)](https://devdocs.io/c/)
 [![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)](https://docs.oracle.com/en/java/)
 [![Kotlin](https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000)](https://kotlinlang.org/)
-[![SQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)](https://www.postgresql.org/)
 [![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](https://www.python.org/)
 [![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)](https://devdocs.io/javascript/)
 
+**Databases**
+
+[![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)](https://www.postgresql.org/)
+[![MySQL](https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000)](https://www.mysql.com/it/)
+[![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000)](https://www.mongodb.com/)
 
 **Frameworks**
 
@@ -48,6 +52,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)](https://react.dev/)
 [![Tailwind CSS](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000)](https://tailwindcss.com/)
 [![Bootstrap](https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000)](https://icons.getbootstrap.com/)
+[<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="100" height="100">](https://icons.getbootstrap.com/)
 
 **Tools**
 
@@ -56,7 +61,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-tag-color.png" width="150" height="90">](https://github.com/nvm-sh/nvm?tab=readme-ov-file)
 [<img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" width="85" height="85">](https://docs.strapi.io/)
 [![ChatGPT](https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000)](https://chatgpt.com/)
-[![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)](https://git-scm.com/)
+[![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)](https://fastapi.tiangolo.com/)
 
 **IDEs**
 
