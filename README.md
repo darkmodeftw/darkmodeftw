@@ -52,11 +52,12 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 [![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)](https://react.dev/)
 [![Tailwind CSS](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000)](https://tailwindcss.com/)
 [![Bootstrap](https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000)](https://icons.getbootstrap.com/)
-[<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="100" height="100">](https://icons.getbootstrap.com/)
+[<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="100" height="100">](https://fastapi.tiangolo.com/)
 
 **Tools**
 
 [![Docker](https://img.icons8.com/?size=100&id=22813&format=png&color=000000)](https://www.docker.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Fritzing_icon_%28new%29.png" width="100" height="100">](https://fritzing.org/)
 [![npm](https://img.icons8.com/?size=100&id=b6eVatKY9ihI&format=png&color=000000)](https://www.npmjs.com/)
 [<img src="https://github.com/nvm-sh/logos/blob/main/nvm-logo-tag-color.png" width="150" height="90">](https://github.com/nvm-sh/nvm?tab=readme-ov-file)
 [<img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" width="85" height="85">](https://docs.strapi.io/)
@@ -67,6 +68,7 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 
 [![VS Code](https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000)](https://code.visualstudio.com/)
 [![Eclipse](https://img.icons8.com/?size=100&id=pcHtLiSbkmzw&format=png&color=000000)](https://www.eclipse.org/downloads/)
+[![Arduino](https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000)](https://www.arduino.cc/)
 [<img src="https://icon.icepanel.io/Technology/svg/CLion.svg" width="100" height="100">](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=EMEA_en_WEST_Clion_Branded&term=clion&content=489240781091&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyuRGU3SAm1k9OVH3CZJg1q_huTlKQU1JPVtylqbN1as_fKOqBjpv4hoCyAQQAvD_BwE)
 [<img src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" width="100" height="100">](https://www.jetbrains.com/datagrip/?source=google&medium=cpc&campaign=EMEA_en_WEST_DataGrip_Branded&term=datagrip&content=555122603931&gad_source=1&gclid=CjwKCAiA3ZC6BhBaEiwAeqfvyhKiZoUntH4YIHhhEcdK8cqx7-frdDdyaAaPJvnIhWTzbFETe-PjRxoCLAMQAvD_BwE)
 [<img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg" width="100" height="100">](https://www.jetbrains.com/pycharm/)
