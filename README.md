@@ -76,27 +76,5 @@ When I'm not in the digital world, you’ll find me pursuing these passions!
 
 ---
 
-**<h3 align="left">GitHub Stats</h3>**
-
-<table align="center" style="width: 100%; padding: 0; margin: 0; border-collapse: collapse;">
-  <tr style="padding: 0; margin: 0;">
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=darkmodeftw&show_icons=true&theme=radical" alt="GitHub stats" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-    </td>
-    <td align="center" style="padding: 10px; width: 33%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmodeftw&theme=radical" alt="GitHub Streak" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-    </td>
-    <td align="center" style="padding: 10px; width: 33%;">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="padding: 20px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=darkmodeftw&theme=radical&no-frame=true&margin-w=5" alt="Trophies" style="width: 80%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-    </td>
-  </tr>
-</table>
-
----
-
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/darkmodeftw" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/alexandru-zaharia-4565a0304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
